@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DFS_DariutinDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fe37a22ca7624e22a5e20132d88be62d7887418")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e98ee15528f3c42fe4e8173377ba353e182b06")]
 [assembly: System.Reflection.AssemblyProductAttribute("DFS_DariutinDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DFS_DariutinDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
